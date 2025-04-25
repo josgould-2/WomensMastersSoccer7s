@@ -1,0 +1,40 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #60b88a;
+padding: 20px;
+color: #333;
+}
+
+h1 {
+text-align: center;
+}
+
+a {
+color: grey;
+}
+
+.round {
+background-color: #fff;
+margin: 20px auto;
+padding: 15px;
+max-width: 600px;
+border-radius: 8px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.round h2 {
+color: #2e8b57;
+}
+
+.round h3 {
+color: #2e8b57;
+}
+.round ul {
+list-style-type: none;
+padding: 0;
+}
+
+.round li {
+padding: 16px 0;
+border-bottom: 1px solid #ddd;
+}
