@@ -38,3 +38,9 @@ padding: 0;
 padding: 16px 0;
 border-bottom: 1px solid #ddd;
 }
+
+.status {
+  font-size: 0.85em;
+  color: #666;
+  margin-left: 10px;
+}
