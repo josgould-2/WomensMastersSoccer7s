@@ -40,7 +40,6 @@ border-bottom: 1px solid #ddd;
 }
 
 .status {
-  font-size: 0.85em;
-  color: #666;
-  margin-left: 10px;
+  color: #aaa;
+  background-color: #f0f0f0;
 }
